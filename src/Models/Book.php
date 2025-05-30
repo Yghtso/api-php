@@ -19,7 +19,7 @@ class Book
             ':author' => $data['author'],
             ':published_at' => $data['published_at'],
             ':cover_image' => $data['cover_image']
-        ]);
+        ]) or die(print_r($stmt->errorInfo(), true));
         return db()->lastInsertId();
     }
 
