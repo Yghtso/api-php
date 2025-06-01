@@ -2,6 +2,8 @@
 
 Questo progetto è una semplice API PHP creata per gestire una collezione di libri. È stata sviluppata come parte di un progetto scolastico.
 
+### DOCUMENTAZIONE POSTMAN https://documenter.getpostman.com/view/36337591/2sB2qgeeCD
+
 ## 🚀 Funzionalità Implementate
 
 Attualmente, l'API supporta le seguenti operazioni:
